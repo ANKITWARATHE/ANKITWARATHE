@@ -15,7 +15,7 @@
 
 📌 **Check out my projects:**  
 - 📖 **[Book Recommendation System](https://github.com/ANKITWARATHE/Book_Recommendation_System)**  
-- 🛠️ **[Cabinet Part Identification using YOLO](https://github.com/your-repo-link)**  
+- 🛠️ **[Switchgear Cabinet Part Identification](https://github.com/your-repo-link)**  
 
 ---
 
