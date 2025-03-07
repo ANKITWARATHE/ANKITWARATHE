@@ -32,7 +32,13 @@
 
 ### 📊 Data Visualization  
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)  
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)  
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-E97627?style=for-the-badge&logo=Matplotlib&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-E97627?style=for-the-badge&logo=Seaborn&logoColor=white)
+
+### Cloud
+![AWS](https://img.shields.io/badge/AWS-E97627?style=for-the-badge&logo=AWS&logoColor=white)  
+
 
 ---
 
