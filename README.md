@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ankit Warathe</h1>
-<h3 align="center">Data Scientist | Machine Learning & Deep Learning Enthusiast | AI Innovator</h3>
+<h3 align="center">Data Scientist | Machine Learning & Deep Learning Enthusiast </h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=ANKITWARATHE&label=Profile%20Views&color=0e75b6&style=flat" alt="ANKITWARATHE" />
