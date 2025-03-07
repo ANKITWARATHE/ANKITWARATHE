@@ -31,13 +31,10 @@
 ![YOLO](https://img.shields.io/badge/YOLO-EE4C2D?style=for-the-badge&logo=yolo&logoColor=white)  
 
 ### 📊 Data Visualization  
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
-
-![Matplotlib](https://img.shields.io/badge/Matplotlib-E97690?style=for-the-badge&logo=Matplotlib&logoColor=green)
-
-![Seaborn](https://img.shields.io/badge/Seaborn-E97696?style=for-the-badge&logo=Seaborn&logoColor=yellow)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)  
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)  
+![Matplotlib](https://img.shields.io/badge/Matplotlib-E97690?style=for-the-badge&logo=Matplotlib&logoColor=green)  
+![Seaborn](https://img.shields.io/badge/Seaborn-E97696?style=for-the-badge&logo=Seaborn&logoColor=yellow)  
 
 ### Cloud
 ![AWS](https://img.shields.io/badge/AWS-E97675?style=for-the-badge&logo=AWS&logoColor=white)  
